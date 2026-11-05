@@ -1,4 +1,4 @@
-# 📊 UrbanMart Retail Sales Analysis
+# 📊 Retail Sales Analysis
 
 ## 🛠 Tools Used
 - Microsoft Excel
@@ -21,5 +21,5 @@ The final dashboard shows total sales of $18.59M broken down by outlet type, loc
 
 > Click the image above to see a preview of the final dashboard.
 
-# urbanmart-retail-sales-excel-dashboard
+# retail-sales-excel-dashboard
 This repo contains a retail sales analysis project done in Excel.
